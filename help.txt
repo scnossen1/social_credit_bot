@@ -1,0 +1,7 @@
+Commands:
+
+ -deduct <name>
+
+ -add <name>
+
+ -listing
